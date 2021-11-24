@@ -57,12 +57,16 @@ h1:hover {
     border:dashed;
 }
 
+#indextitle2 {
+    background-color: rgb(241, 255, 159);
+    border:dashed;
+}
+
+#indextitle3 {
+    background-color: rgb(241, 255, 159);
+    border:dashed;
+}
+
 ul > li {
-    margin: 0;
-	padding: 15px 0 15px 35px;
-	list-style: none;
-    background-position: 0mm;
-	background-image: url("smiley.png");
-	background-repeat: no-repeat;
-	background-size: 30px;
+    list-style-image:url('smiley.png')
 }
