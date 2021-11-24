@@ -67,6 +67,6 @@ h1:hover {
     border:dashed;
 }
 
-div > ul {
+ul li {
     list-style-image:url('smiley.png')
 }
